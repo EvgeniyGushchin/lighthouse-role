@@ -1,5 +1,6 @@
 # Lighthouse Role
 
+[v1.0.1](https://github.com/EvgeniyGushchin/lighthouse-role/tags)
 
 ## Description
 
